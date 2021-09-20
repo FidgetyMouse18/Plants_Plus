@@ -1,9 +1,9 @@
-#Plants+ for Minecraft 1.16.5
+# Plants+ for Minecraft 1.16.5
 
 Plants+ is a minecraft plants expansion project with no specific focuses besides adding extra plants and expanding on the capabilities of the existing plant system within Minecraft.
 Plants+ in it's current version adds additional food plants as well as tiered plants that give bonus effects and can be used for additional material crafting.
 
-#License
+# License
 
 Plants+ is under the MIT license. You may use it in modpacks, reviews or any other form as long as you abide by the terms below.
 
