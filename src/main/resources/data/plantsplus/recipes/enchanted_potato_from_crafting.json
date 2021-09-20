@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "axa",
+    "aaa"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:potato"
+    },
+    "a":
+    {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "result":
+  {
+    "item": "plantsplus:enchanted_potato",
+    "count": 1
+  }
+}

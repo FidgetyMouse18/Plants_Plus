@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "plantsplus:enchanted_potato"
+  },
+  "result": "plantsplus:enchanted_baked_potato",
+  "experience": 0.35,
+  "cookingtime": 100
+}
