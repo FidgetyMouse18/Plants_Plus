@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "axa",
+    "aaa"
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "plantsplus:iron_potato"
+    },
+    "x":
+    {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result":
+  {
+    "item": "plantsplus:gold_potato",
+    "count": 1
+  }
+}

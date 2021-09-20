@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "axa",
+    "aaa"
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "plantsplus:diamond_potato"
+    },
+    "x":
+    {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result":
+  {
+    "item": "plantsplus:netherite_potato",
+    "count": 1
+  }
+}
