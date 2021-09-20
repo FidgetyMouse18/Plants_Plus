@@ -11,7 +11,7 @@ public class enchanted_baked_potato extends Item {
     public static final Food enchanted_baked_potato = (new Food.Builder())
             .hunger(5)
             .saturation(6)
-            .effect(() -> new EffectInstance(Effects.REGENERATION,300,2),1)
+            .effect(() -> new EffectInstance(Effects.REGENERATION,600,2),1)
             .setAlwaysEdible()
             .build();
 

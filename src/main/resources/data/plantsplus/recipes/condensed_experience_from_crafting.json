@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "result":
+  {
+    "item": "plantsplus:condensed_experience",
+    "count": 1
+  }
+}

@@ -28,7 +28,6 @@ public class plants_plus
     public static final String VERSION = "1.0";
 
     public plants_plus() {
-
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         // Register the enqueueIMC method for modloading
@@ -42,6 +41,7 @@ public class plants_plus
         MinecraftForge.EVENT_BUS.register(this);
 
         mod_items.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        mod_blocks.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 
     private void setup(final FMLCommonSetupEvent event)

@@ -10,11 +10,11 @@
   {
     "x":
     {
-      "item": "minecraft:potato"
+      "item": "plantsplus:condensed_experience_block"
     },
     "a":
     {
-      "item": "minecraft:experience_bottle"
+      "item": "plantsplus:gold_potato"
     }
   },
   "result":

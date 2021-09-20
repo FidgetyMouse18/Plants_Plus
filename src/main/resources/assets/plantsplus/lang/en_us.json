@@ -3,5 +3,12 @@
   "item.plantsplus.enchanted_potato": "Enchanted Potato",
   "item.plantsplus.enchanted_baked_potato": "Enchanted Baked Potato",
   "item.plantsplus.stone_potato": "Stone Potato",
-  "item.plantsplus.iron_potato": "Iron Potato"
+  "item.plantsplus.iron_potato": "Iron Potato",
+  "item.plantsplus.gold_potato": "Gold Potato",
+  "item.plantsplus.diamond_potato": "Diamond Potato",
+  "item.plantsplus.netherite_potato": "Netherite Potato",
+  "item.plantsplus.emerald_potato": "Emerald Potato",
+  "item.plantsplus.condensed_experience": "Condensed Experience",
+  "item.plantsplus.condensed_experience_block": "Block of Condensed Experience",
+  "block.plantsplus.condensed_experience_block": "Block of Condensed Experience"
 }

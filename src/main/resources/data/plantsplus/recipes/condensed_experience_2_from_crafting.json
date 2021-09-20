@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "plantsplus:condensed_experience_block"
+    }
+  ],
+  "result": {
+    "item": "plantsplus:condensed_experience",
+    "count": 9
+  }
+}
